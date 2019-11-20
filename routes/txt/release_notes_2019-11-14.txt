@@ -1,0 +1,4 @@
+Các backlog items (stories) mà nhóm vừa triển khai:
+- Tôi có thể biết được tôi đã được độ ồn được trong khoảng thời gian bao lâu để biết được thời gian đã đo độ ồn
+- Tôi có thể hiệu chỉnh lại mức độ sai số, mức độ lệch của microphone điện thoại tôi để giá trị của độ ồn được tính chính xác hơn
+- Tôi có thể lưu và xem lịch sử đo độ ồn gồm các thông tin (thời gian, độ lớn cao nhất, nhỏ nhất, trung bình) để theo dõi, xem lại thông số của các lần đo trước đó
